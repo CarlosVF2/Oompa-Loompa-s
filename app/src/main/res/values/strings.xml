@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Oompa-Loompa-s</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Oompa-Loompa</string>
+    <string name="prompt_vh_edad">Edad: </string>
+    <string name="prompt_vh_pais">Pais: </string>
+    <string name="prompt_vh_email">E-mail: </string>
+    <string name="prompt_genero">Genero: </string>
+    <string name="prompt_profesion">Profesión: </string>
+    <string name="prompt_texto_largo">Texto largo: </string>
+    <string name="title_alert_error">¡Atencion!</string>
+    <string name="message_alert_error">Ha ocurrido el error %s</string>
+    <string name="accept_alert_error">Aceptar</string>
+    <string name="prompt_detail_personal_fields">Datos personales</string>
+    <string name="prompt_detail_other_fields">Otros datos</string>
+    <string name="prompt_detail_favorite_fields">Favoritos</string>
+    <string name="prompt_detail_favorite_fields_color">Color: </string>
+    <string name="prompt_detail_favorite_fields_comida">Comida: </string>
+    <string name="prompt_detail_favorite_fields_cancion">Canción: </string>
+</resources>
